@@ -6,8 +6,8 @@
 
 ### Download & Install
 
-Install the plugin and see documentation here:
-http://brainbox.cz/mediamonkey-updateplaystats/
+Install the plugin and see documentation from here:
+[http://brainbox.cz/mediamonkey-updateplaystats/](http://brainbox.cz/mediamonkey-updateplaystats/?utm_source=github&utm_medium=web&utm_campaign=mediamonkey-updateplaystats)
 
 ### Building
 
