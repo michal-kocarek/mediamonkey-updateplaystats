@@ -1,0 +1,34 @@
+Update Play Statistics Plugin is licensed under the Apache License, Version 2.0.
+
+Copyright © 2013 Michal Kočárek. 
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+	http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+Following work included in this product
+is property of their owners and is under following license.
+
+– Script icon   
+	
+	Icon is derivated from Fugue Icons.
+	(C) Yusuke Kamiyamane. All rights reserved.
+	
+	Icons is licensed under a Creative Commons Attribution 3.0 License.
+	<http://creativecommons.org/licenses/by/3.0/>
+
+– 7-Zip Command line version
+	
+	7za.exe is part of 7-Zip. 
+	7-Zip Copyright (C) 1999-2010 Igor Pavlov.
+	
+	7za.exe is distributed under the GNU LGPL license.
+	<https://www.gnu.org/licenses/lgpl.txt>
